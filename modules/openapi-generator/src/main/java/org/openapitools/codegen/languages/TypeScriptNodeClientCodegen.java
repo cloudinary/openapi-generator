@@ -1,3 +1,5 @@
+// NOTE: The template was updated to use portions from TypeScriptClientCodegen in order to correctly generate examples.
+
 /*
  * Copyright 2018 OpenAPI-Generator Contributors (https://openapi-generator.tech)
  * Copyright 2018 SmartBear Software
